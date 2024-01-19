@@ -63,11 +63,7 @@
       <version>3.0.2</version>
       <scope>test</scope>
     </dependency>
-    
-      <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-data-redis</artifactId>
-  </dependency>
+
     
     <!-- Jakarta Expression Language API -->
     <dependency>
@@ -94,6 +90,7 @@
           <groupId>jakarta.servlet.jsp.jstl</groupId>
           <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
           <version>1.2.7</version>
+          <scope>compile</scope>
       </dependency>
 
       <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
