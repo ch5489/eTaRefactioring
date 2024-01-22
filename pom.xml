@@ -95,7 +95,7 @@
           <groupId>jakarta.servlet.jsp</groupId>
           <artifactId>jakarta.servlet.jsp-api</artifactId>
           <version>3.1.0</version>
-          <scope>provided</scope>정
+          <scope>provided</scope>
       </dependency>
       <dependency>
           <groupId>jakarta.el</groupId>
