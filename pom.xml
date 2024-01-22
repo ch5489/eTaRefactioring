@@ -94,7 +94,7 @@
       <dependency>
           <groupId>jakarta.servlet.jsp</groupId>
           <artifactId>jakarta.servlet.jsp-api</artifactId>
-          <version>3.1.0</version>
+          <version>3.1.1</version>
           <scope>provided</scope>
       </dependency>
       <dependency>
@@ -102,11 +102,7 @@
           <artifactId>jakarta.el-api</artifactId>
           <version>5.0.0</version>
       </dependency>
-      <dependency>
-          <groupId>jakarta.servlet.jsp.jstl</groupId>
-          <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
-          <version>3.0.0</version>
-      </dependency>
+
       <dependency>
           <groupId>org.glassfish.web</groupId>
           <artifactId>jakarta.servlet.jsp.jstl</artifactId>
