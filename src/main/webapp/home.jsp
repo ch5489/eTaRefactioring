@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>eTa CI/CD Test2</title>
+    <title>eTa CI/CD Webhook Test</title>
 
     <style>
 
