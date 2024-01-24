@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>eTa</title>
+    <title>eTa CI/CD Test</title>
 
     <style>
 
